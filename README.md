@@ -2,8 +2,6 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 
 - [Noble Mittal](https://github.com/beingnoble03)
 - [Amrit Prakash](https://github.com/solo-daemon)
-
 - [Palak Gupta](https://github.com/Palakfs)
-
 - [Aditya Karwa](https://github.com/AdityaK-github)
 
