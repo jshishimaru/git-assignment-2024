@@ -4,3 +4,4 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Amrit Prakash](https://github.com/solo-daemon)
 - [Palak Gupta](https://github.com/Palakfs)
 - [Aditya Karwa](https://github.com/AdityaK-github)
+- [Anmol Goklani](https://github.com/AnmolGoklani)
